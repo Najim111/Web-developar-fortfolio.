@@ -193,13 +193,48 @@ main section {
 
 /* resume style */
 .resume-title {
-    color:  #474747;
+    color: #474747;
     font-size: 30px;
     font-weight: 700;
 }
-.resume-conteiner{
+
+.resume-conteiner {
     display: flex;
-}
-.resume-column{
     gap: 70px;
+}
+
+.resume-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-item-title {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+
+}
+
+.resume-item-inastitute {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.resume-item-discription {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.download-CV{
+    text-align: center;
+    margin-top: 50px;
+}
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 230px;
+    margin-top: 100px;
 }
